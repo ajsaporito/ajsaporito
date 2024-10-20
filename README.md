@@ -1,4 +1,4 @@
-## Hello 👋
+## Hello, I'm AJ Saporito 👋
 
 Welcome to my GitHub profile! I'm currently pursuing a degree in **Software Engineering** at **New England Institute of Technology**, and passionate about web and app development. I love learning new technologies and building things that can make an impact.
 
@@ -34,3 +34,9 @@ Welcome to my GitHub profile! I'm currently pursuing a degree in **Software Engi
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+### 📫 Contact Me
+
+- LinkedIn: Coming soon
+- Indeed: Coming soon
+- Portfolio: Coming soon
