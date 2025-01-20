@@ -1,6 +1,6 @@
 # Hello, I'm AJ Saporito 👋
 
-Welcome to my GitHub profile! I'm currently pursuing a degree in **Software Engineering** at **New England Institute of Technology**, and passionate about web and app development. I love learning new technologies and building things that can make an impact.
+I'm currently pursuing a degree in **Software Engineering** at **New England Institute of Technology**, and passionate about backend web and app development, APIs, and databases.
 
 ---
 
